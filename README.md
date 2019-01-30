@@ -52,7 +52,7 @@ Give an example
 
 ## Deployment
 
-I deploy with Heroku and the prod_keys.js is already there.
+I normaly deploy with Heroku, so the prod.js in /config is already there.
 Just need to add you keys on Heroku Dashboard
 
 ## Built With
